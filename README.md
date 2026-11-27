@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="banner.jpg"/>
+<img src="https://rahezdev.cyou/banner.jpg"/>
 
 <!-- Dynamic Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=680&lines=Building+scalable+REST+APIs+with+Node.js;Automating+Linux+servers+and+workflows+with+Bash;Self-hosting+Docker+containers+and+Cloudflare+Tunnels;Developing+high-throughput+backend+services+and+bots" alt="Typing SVG" />

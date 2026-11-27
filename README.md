@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Threads-@rahezdev-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
   </a>
   <a href="https://github.com/rahezdev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-stargazer--claud-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-rahezdev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 

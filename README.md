@@ -1,17 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:1f6feb,100:00d4ff&height=210&section=header&text=Muhamad%20Rahesa&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Node.js%20Backend%20Developer%20%7C%20REST%20API%20%26%20Shell%20Automation&descSize=16&descAlignY=57&animation=fadeIn" width="100%" />
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00d4ff&height=215&section=header&text=Muhamad%20Rahesa&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Node.js%20Backend%20Developer%20%7C%20REST%20API%20%26%20Shell%20Automation&descSize=16&descAlignY=57&animation=fadeIn" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=%3E+Architecting+high-performance+REST+APIs+in+Node.js;%3E+Automating+Linux+servers+%26+workflows+with+Bash;%3E+Self-hosting+Docker+containers+%26+Cloudflare+Tunnels" alt="Typing SVG" />
-</a>
+<!-- Dynamic Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=680&lines=Building+scalable+REST+APIs+with+Node.js;Automating+Linux+servers+and+workflows+with+Bash;Self-hosting+Docker+containers+and+Cloudflare+Tunnels;Developing+high-throughput+backend+services+and+bots" alt="Typing SVG" />
 
 <br/>
 
+<!-- Social & Profile Badges -->
 <p>
-  <a href="https://portfolio.rahezweb.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-rahezweb.my.id-090d16?style=for-the-badge&logo=vercel&logoColor=00d4ff" alt="Portfolio" />
-  </a>
   <a href="https://github.com/rahezdev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@rahezdev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -28,8 +26,8 @@
 
 ---
 
-### Terminal Profile (`whoami`)
+### 1. Terminal Profile (`whoami`)
 
 ```bash
 ┌──(rahezdev@github)-[~]
-└─$ cat profile.json
+└─$ cat /etc/rahezdev/profile.json
